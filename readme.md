@@ -1,4 +1,5 @@
 # **AI ASSISTED PARAMETER EXTRACTION**
+Hi, I am Samarth Jain, a final-year student at IIT (BHU), Varanasi, India. This repository contains my submission for the Coding Challenge for the LFX Mentorship Program: AI-Assisted Parameter Extraction for the RISC-V Specification. I have put my best effort into this work and hope you find it interesting and well-presented.
 
 ### **📂 Repository Structure**
 
