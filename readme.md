@@ -1,4 +1,4 @@
-AI ASSISTED PARAMETER EXTRACTION
+# **AI ASSISTED PARAMETER EXTRACTION**
 
 ### **📂 Repository Structure**
 
@@ -11,7 +11,7 @@ AI ASSISTED PARAMETER EXTRACTION
   * **parameter\_extraction.ipynb**: The core execution logic for Prompt 14, demonstrating the reasoning-based extraction process.  
   * **zicntr\_zihpm\_validation.ipynb**: The dedicated notebook used to perform the stress test, hallucination filtering for validation.
 
-Coding Challenge Report
+## **Coding Challenge Report**
 
 **Details of the LLMS Used \-:** 
 
